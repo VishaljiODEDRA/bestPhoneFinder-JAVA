@@ -1,2 +1,5 @@
-# bestPhoneFinder-JAVA
-This repository is dedicated to find best phone available in the using JAVA programme, based certain criteria of the phone, such as screen size, camera, battery capacity and many more can be added and edited. 
+The file phone-data.txt contains data from https://pricespy.co.uk/ (accessed 26/04/2018) with one phone per line, in the following format:
+
+`model screenSize batteryCapacity`
+
+The model names have underscores instead of spaces. 
